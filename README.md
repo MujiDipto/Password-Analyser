@@ -33,9 +33,9 @@ python3 main.py [YOUR_PASSWORD]
    
    ### GUI Example
    
-   <img src="screenshot/gui1.png" alt="GUI Screenshot">
+   <img src="screenshots/gui1.png" alt="GUI Screenshot">
    
-   <img src="screenshot/gui2.png" alt="GUI Screenshot">
+   <img src="screenshots/gui2.png" alt="GUI Screenshot">
   
 
 </details>
